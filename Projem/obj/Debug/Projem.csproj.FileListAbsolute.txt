@@ -1,0 +1,10 @@
+C:\Users\akyol\source\repos\Projem\Projem\bin\Debug\Projem.exe.config
+C:\Users\akyol\source\repos\Projem\Projem\bin\Debug\Projem.exe
+C:\Users\akyol\source\repos\Projem\Projem\bin\Debug\Projem.pdb
+C:\Users\akyol\source\repos\Projem\Projem\obj\Debug\Projem.csprojAssemblyReference.cache
+C:\Users\akyol\source\repos\Projem\Projem\obj\Debug\Projem.Form1.resources
+C:\Users\akyol\source\repos\Projem\Projem\obj\Debug\Projem.Properties.Resources.resources
+C:\Users\akyol\source\repos\Projem\Projem\obj\Debug\Projem.csproj.GenerateResource.cache
+C:\Users\akyol\source\repos\Projem\Projem\obj\Debug\Projem.csproj.CoreCompileInputs.cache
+C:\Users\akyol\source\repos\Projem\Projem\obj\Debug\Projem.exe
+C:\Users\akyol\source\repos\Projem\Projem\obj\Debug\Projem.pdb
